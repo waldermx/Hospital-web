@@ -4,7 +4,7 @@ meta_title: "About"
 image: "/images/author.png"
 draft: false
 
-what_i_do:
+mission:
   title: "What I Do"
   items:
   - title: "Content Writing"
