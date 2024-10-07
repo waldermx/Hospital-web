@@ -1,5 +1,5 @@
 ---
-title: "Visión"
+title: "Urgencias"
 meta_title: "About"
 image: "/images/puertahierro.jpg"
 draft: false
@@ -14,4 +14,11 @@ mission:
   
 
 ---
+Contamos con servicio de urgencias las 24 horas, los 7 días de la semana, en todos nuestros hospitales.
+Médicos urgenciólogos y primera atención ambulatoria. Consultas, tratamientos y aplicación de medicamentos.
+Estamos cerca de ti. Llámanos o acude directamente al área de urgencias de cualquiera de nuestros hospitales.
 
+Andares: 3338482128 \
+Sur: 3330407031 \
+Tepic: 3111295206 \
+Colima: 3123162405
